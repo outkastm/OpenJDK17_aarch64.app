@@ -1,0 +1,77 @@
+[en-us]
+name = "OpenJDK17"
+auth = "OpenJDK"
+version = "1.00.000"
+descript = "Production-ready open-source builds of the Java Development Kit, version 17"
+
+[zh-cn]
+name = "OpenJDK17"
+auth = "OpenJDK"
+version = "1.00.000"
+descript = "Java 开发工具包（第 17 版）的开源生产级构建版本"
+
+[zh-hk]
+name = "OpenJDK17"
+auth = "OpenJDK"
+version = "1.00.000"
+descript = "Java 開發工具包（第 17 版）的開源生產級組建版本"
+
+[ja-jp]
+name = "OpenJDK17"
+auth = "OpenJDK"
+version = "1.00.000"
+descript = "Java Development Kit バージョン 17 の商用利用可能なオープンソースビルド"
+
+[de-de]
+name = "OpenJDK17"
+auth = "OpenJDK"
+version = "1.00.000"
+descript = "Produktionsbereite Open-Source-Builds des Java Development Kit, Version 17"
+
+[fr-fr]
+name = "OpenJDK17"
+auth = "OpenJDK"
+version = "1.00.000"
+descript = "Versions open-source prêtes pour la production du Java Development Kit, version 17"
+
+[it-it]
+name = "OpenJDK17"
+auth = "OpenJDK"
+version = "1.00.000"
+descript = "Build open source pronte per la produzione del Java Development Kit, versione 17"
+
+[es-es]
+name = "OpenJDK17"
+auth = "OpenJDK"
+version = "1.00.000"
+descript = "Compilaciones de código abierto listas para producción del Java Development Kit, versión 17"
+
+[ko-kr]
+name = "OpenJDK17"
+auth = "OpenJDK"
+version = "1.00.000"
+descript = "상용 환경에 적합한 Java Development Kit 버전 17의 오픈 소스 빌드"
+
+[hu-hu]
+name = "OpenJDK17"
+auth = "OpenJDK"
+version = "1.00.000"
+descript = "A Java Development Kit 17-es verziójának éles környezetre kész, nyílt forráskódú verziói"
+
+[pl-pl]
+name = "OpenJDK17"
+auth = "OpenJDK"
+version = "1.00.000"
+descript = "Gotowe do użycia produkcyjnego, otwartoźródłowe kompilacje zestawu Java Development Kit w wersji 17"
+
+[ru-ru]
+name = "OpenJDK17"
+auth = "OpenJDK"
+version = "1.00.000"
+descript = "Готовые к промышленной эксплуатации сборки Java Development Kit с открытым исходным кодом, версия 17"
+
+[tr-tr]
+name = "OpenJDK17"
+auth = "OpenJDK"
+version = "1.00.000"
+descript = "Java Development Kit sürüm 17'nin üretime hazır açık kaynaklı derlemeleri"
